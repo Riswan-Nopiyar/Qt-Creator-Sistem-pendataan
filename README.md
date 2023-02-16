@@ -3,13 +3,8 @@
 ## Menggunakan Qt creator
 Qt Creator merupakan cross-platform C++ integrated development environment yang merupakan bagian dari Qt SDK.
 
-Tema................... CRUD Lembaga Pemasyarakatan<br>
-database .............. riswannopiyar_2010010085<br>
-Aplikasi .............. Qt Creator 7.0.2 (Community)<br>
-Qt Build .............. Desktop_Qt_5_15_2_MinGW_32_bit-Debug<br>
-Gambar................. Assets/Images<br>
-Versi ODBC............. MySQL ODBC 8.0 ANSI Driver<br>
-Localhost ............. Xampp v3.3.0<br>
+![Screenshot (156)](https://user-images.githubusercontent.com/103617674/219346191-dc6d31c5-4dbc-4a7f-a7c7-62bb4ca1e441.png)
+
 
 ![Screenshot (153)](https://user-images.githubusercontent.com/103617674/219340793-d9136be6-7718-4362-8c69-18b92e224878.png)
 
