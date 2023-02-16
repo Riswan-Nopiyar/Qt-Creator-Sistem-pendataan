@@ -31,5 +31,11 @@ Qt Creator merupakan cross-platform C++ integrated development environment yang 
 ### Input Narapidana
 ![Screenshot (148)](https://user-images.githubusercontent.com/103617674/219341741-c517ccc5-e38d-4d29-a295-e8199972a058.png)
 
+### Jika berhasil
+![Screenshot (151)](https://user-images.githubusercontent.com/103617674/219347892-365c45e8-70f7-49db-a96c-155f53a82301.png)
+
+### Jika Gagal
+![Screenshot (150)](https://user-images.githubusercontent.com/103617674/219347869-8ff2d6b8-2f84-4807-b71d-36d3ba1aeed0.png)
+
 ### Profil Saya
 ![Screenshot (154)](https://user-images.githubusercontent.com/103617674/219344152-bab13046-e4f7-476b-bd79-d8b3d3670bac.png)
