@@ -1,1 +1,41 @@
-# UAS-visual-3-SI-Penjara
+# UAS-visual-3-SI-Penjara (File Dikunci)
+
+## Menggunakan Qt creator
+Qt Creator merupakan cross-platform C++ integrated development environment yang merupakan bagian dari Qt SDK.
+
+Tema................... CRUD Lembaga Pemasyarakatan<br>
+database .............. riswannopiyar_2010010085<br>
+Aplikasi .............. Qt Creator 7.0.2 (Community)<br>
+Qt Build .............. Desktop_Qt_5_15_2_MinGW_32_bit-Debug<br>
+Gambar................. Assets/Images<br>
+Versi ODBC............. MySQL ODBC 8.0 ANSI Driver<br>
+Localhost ............. Xampp v3.3.0<br>
+
+![Screenshot (153)](https://user-images.githubusercontent.com/103617674/219340793-d9136be6-7718-4362-8c69-18b92e224878.png)
+
+### Beranda 
+![Screenshot (141)](https://user-images.githubusercontent.com/103617674/219341031-b1a24cae-20ec-45db-9e3b-fe55b8447dd0.png)
+
+### Menu Samping
+![Screenshot (152)](https://user-images.githubusercontent.com/103617674/219341948-f25f0361-3b9e-4321-b07e-30d00d5e8f9e.png)
+
+### Tabel Sipir
+![Screenshot (143)](https://user-images.githubusercontent.com/103617674/219341562-c7f24f11-0616-408d-87d7-1464f73f1180.png)
+
+### Input Sipir
+![Screenshot (144)](https://user-images.githubusercontent.com/103617674/219341588-39e3aaac-6704-4c9e-9970-9d6ea7a17737.png)
+
+### Tabel Pengunjung
+![Screenshot (145)](https://user-images.githubusercontent.com/103617674/219341674-e5526725-e77b-494f-bfeb-f21246f12fb9.png)
+
+### Input Pengunjung
+![Screenshot (146)](https://user-images.githubusercontent.com/103617674/219341702-aba34cb3-c545-425c-b3c0-a8853454922c.png)
+
+### Tabel Narapidana
+![Screenshot (147)](https://user-images.githubusercontent.com/103617674/219341718-1c42050f-eafc-419d-8dd1-6f20bcfc91ca.png)
+
+### Input Narapidana
+![Screenshot (148)](https://user-images.githubusercontent.com/103617674/219341741-c517ccc5-e38d-4d29-a295-e8199972a058.png)
+
+### Profil Saya
+![Screenshot (154)](https://user-images.githubusercontent.com/103617674/219344152-bab13046-e4f7-476b-bd79-d8b3d3670bac.png)
