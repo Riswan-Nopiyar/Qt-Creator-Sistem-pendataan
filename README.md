@@ -1,4 +1,4 @@
-# UAS-visual-3-SI-Penjara (File Dikunci)
+# Qt-Creator-Sistem-pendataan
 
 ## Menggunakan Qt creator
 Qt Creator merupakan cross-platform C++ integrated development environment yang merupakan bagian dari Qt SDK.
