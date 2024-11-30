@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>halaman3.qml</file>
+        <file>Beranda.qml</file>
+        <file>Narapidana1.qml</file>
+        <file>Narapidana2.qml</file>
+        <file>Assets/Images/_penjara.jpg</file>
+        <file>Assets/Images/Animasi_polisi.png</file>
+        <file>Assets/Images/Background.png</file>
+        <file>Assets/Images/Logo_narapidana.ico</file>
+        <file>Assets/Images/Logo_pemasyarakatan.png</file>
+        <file>Assets/Images/Logo_pengunjung.ico</file>
+        <file>Assets/Images/Logo_keluar.ico</file>
+        <file>halaman1.qml</file>
+        <file>Sipir1.qml</file>
+        <file>Sipir2.qml</file>
+        <file>Assets/Images/Logo_sipir.ico</file>
+        <file>Assets/Images/Logo_beranda.ico</file>
+        <file>halaman2.qml</file>
+        <file>Pengunjung1.qml</file>
+        <file>Pengunjung2.qml</file>
+        <file>Assets/Images/Background_1.jpg</file>
+        <file>Assets/Images/profil_Riswan Nopiyar.jpeg</file>
+        <file>Assets/Images/profil_background.jpg</file>
+        <file>Assets/Images/Logo_peringatan.ico</file>
+        <file>Assets/Images/Logo_berhasil.ico</file>
+    </qresource>
+</RCC>
